@@ -7,6 +7,7 @@ It's a 14-year-old student and it's interested in developing so they took develo
 * [why](https://github.com/Dcove/why) *forked from [purofle](https://github.com/purofle)*, a bash script that can do some simple work 一个可以完成简单工作的bash脚本
 * [idverify](https://github.com/Dcove/idverify), a C-based program that uses to verify chinese's id numbers 一个用来验证中国身份证号的C语言写的程序
 * [dcove.github.io](https://github.com/Dcove/dcove.github.io), my personal blog 我的个人博客
+* **[MuTruc](https://github.com/mutruc/mutruc)**, a command-line music game 一个命令行音游
 
 ## Projects on My Plan
 我计划中的项目  
