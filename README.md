@@ -7,20 +7,21 @@ It's a 14-year-old student and it's interested in developing so they took develo
 * [why](https://github.com/Dcove/why) *forked from [purofle](https://github.com/purofle)*, a bash script that can do some simple work 一个可以完成简单工作的bash脚本
 * [idverify](https://github.com/Dcove/idverify), a C-based program that uses to verify chinese's id numbers 一个用来验证中国身份证号的C语言写的程序
 * [dcove.github.io](https://github.com/Dcove/dcove.github.io), my personal blog 我的个人博客
-* **[MuTruc](https://github.com/mutruc/mutruc)** *working with [@Ltfjx](https://github.com/Ltfjx)*, a command-line music game 一个命令行音游
+* **[MuTruc](https://github.com/mutruc/mutruc)** *working with [@Ltfjx](https://github.com/Ltfjx)*, a music game 一个音游
 
 ## Projects on My Plan
 我计划中的项目  
-* [newwhy](https://github.com/Dcove/newwhy), [why](https://github.com/Dcove/why) the C edition C语言版的[why](https://github.com/Dcove/why)
-* Project Chenshchi, a fake natural Chinese to C rewrite system (still working) 一个近似自然汉语到C语言的重写系统（仍在制作）
-* CDIL Program Libraries, a simple source code pack 一个简单的源码包
+* ~~[newwhy](https://github.com/Dcove/newwhy), [why](https://github.com/Dcove/why) the C edition C语言版的[why](https://github.com/Dcove/why)~~
+* ~~Project Chenshchi, a fake natural Chinese to C rewrite system (still working) 一个近似自然汉语到C语言的重写系统（仍在制作）~~
+* ~~CDIL Program Libraries, a simple source code pack 一个简单的源码包~~
 
 ## Languages I'm Learning
 (A correct appearance to the title is, ***Languages*** I'm Learning.)  
 我正在学习的***语言***  
 * C
-* C++
-* Kotlin
+* ~~C++~~
+* C#
+* ~~Kotlin~~ (gave up)
 * Chinese 汉语
 * English 英语
 * Russian 俄语
