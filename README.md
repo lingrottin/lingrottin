@@ -1,6 +1,7 @@
 # Lingrottin
-只是个扑街高一生哦。<br /><br />
-<img src="/banner.webp" />
+只是个扑街高一生哦。<br />
+<a href="https://www.pixiv.net/artworks/89991203"><img src="/banner.webp" /></a>
+(图片来自Pixiv，点击图像以查看来源。)<br/>
 [[我的个人博客](https://lingrottin.uof.edu.kg)]（[[备用网址](https://lingrottin.pages.dev)]）<br /><br />
 同时，欢迎来到[愚笨大学](https://uof.edu.kg)拜访。
 
