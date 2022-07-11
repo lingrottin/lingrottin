@@ -1,20 +1,25 @@
+# Lingrottin
+只是个扑街高一生哦。<br /><br />
+<img src="/banner.webp" />
+[[我的个人博客](https://lingrottin.uof.edu.kg)]（[[备用网址](https://lingrottin.pages.dev)]）<br /><br />
+同时，欢迎来到[愚笨大学](https://uof.edu.kg)拜访。
 
-## Projects I'm Doing
+## 关于我
+* 对折腾的兴趣满满
+* 精通汉语、熟识英语、正在学习俄语
+* 能写C、C#、HTML+CSS+JavaScript、Bash、PowerShell、Python
+* 网名 Lingrottin
+* <strike> 很可爱 </strike>
+
+## Projects I'm Working on
 我正在进行的项目  
-* [dcove.github.io](https://github.com/Dcove/dcove.github.io), my personal blog 我的个人博客
-* **[MuTruc](https://github.com/mutruc/mutruc)** <I>working with [@Ltfjx](https://github.com/Ltfjx) & <a href="https://github.com/LGY07">@LGY07</a></I>, a music game 一个音游
-* [tienyu_rus](https://github.com/lingrottin/tienyu_rus), a Rime schema for Russian in order to input Russian studently and comfortably under Linux. 为了在Linux下舒服地以初学者的方式输入俄语而制作的Rime输入方案。
+* [遥烬](https://lingrottin.uof.edu.kg) 我的个人博客
+* **[Mutruc](https://github.com/mutruc/mutruc)** <i>以及 [@Ltfjx](https://github.com/Ltfjx) & <a href="https://github.com/LGY07">@LGY07</a></i> 一个音游
 
-## Projects on My Plan
-我计划中的项目  
-* RevolveScript, a script language which can defines how a UI is 可定义UI的脚本语言
-* RevolveGL, C# parser of RevolveScript 适用于C#的RevolveScript的解析器
-* Project Chenshchi, a fake natural English to RevolveScript rewrite system 一个近似自然英语到RevolveScript的重写系统
-
-## *Languages* I'm Learning
-我正在学习的***语言***  
+## 我正在学习的*语言*  
 * C
 * C#
-* Chinese 汉语
-* English 英语
-* Russian 俄语
+* HTML+CSS+JavaSctipt
+* 汉语
+* 英语
+* 俄语
