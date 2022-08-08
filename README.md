@@ -6,6 +6,7 @@
 同时，欢迎来到[愚笨大学](https://uof.edu.kg)拜访。
 
 ## 关于我
+![Lingrottin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lingrottin&theme=dracula&show_icons=true)
 * 对折腾的兴趣满满
 * 精通汉语、熟识英语、正在学习俄语
 * 能写C、C#、HTML+CSS+JavaScript、Bash、PowerShell、Python
