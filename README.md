@@ -1,4 +1,4 @@
-只是个扑街准大一生哦。<br />
+只是个扑街大一生哦。<br />
 <a href="https://www.pixiv.net/artworks/89991203"><img src="/banner.webp" /></a>
 (图片来自Pixiv，点击图像以查看来源。)<br/>
 [[我的个人博客](https://enita.cn/)]（[[备用网址](https://lingrottin.pages.dev)]）<br /><br />
