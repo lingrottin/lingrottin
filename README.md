@@ -4,7 +4,7 @@
 [[我的个人博客](https://enita.cn/)]（[[备用网址](https://lingrottin.pages.dev)]）<br /><br />
 
 ## 关于我
-[![Lingrottin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lingrottin&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lingrottin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![lingrottin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=lingrottin)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lingrottin)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-
+<!-- the original works by @anuraghazra is paused by himself, so this is the alternative -->
