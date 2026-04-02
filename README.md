@@ -7,7 +7,7 @@
 [[我的个人博客](https://enita.cn/)]（[[备用网址](https://lingrottin.pages.dev)]）<br /><br />
 
 ## 关于我
-| [![lingrottin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=lingrottin)](https://github.com/pranesh-2005/github-readme-stats-fast) |
+| [![lingrottin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=lingrottin&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast) |
 |:---:|
 [![Rust code stats badge](https://ferris.love/badge/lingrottin?variant=card)](https://ferris.love/u/lingrottin)|
 
