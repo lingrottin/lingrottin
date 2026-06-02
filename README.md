@@ -11,4 +11,4 @@ Just a freshman with no achievements. 🥺
 - My WIP/TBD projects: [Ferris.love](https://ferris.love), [Spectra](https://github.com/University-Of-Fool/Spectra), POKB (coming soon!)
 - ![I love Ferris badge](https://ferris.love/badge/love)
 
-*I love making friends!* You can find me at: [enitanureya@outlook.com](mailto:enitanureya@outlook.com).
+*I love making friends!* You can find me at: [enitanureya@outlook.com](mailto:enitanureya@outlook.com). (See [here](https://enita.cn/about/#jie-shu) for more contact info)
