@@ -1,6 +1,6 @@
 Just a freshman with no achievements. 🥺
 
-[Blog](https://enita.cn/) ([Backup](https://lingrottin.pages.dev))
+[Blog](https://enita.cn/) ([Backup](https://cf.enita.cn))
 
 | [![lingrottin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=lingrottin&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast) |[![Rust code stats badge](https://ferris.love/badge/lingrottin?variant=card)](https://ferris.love/u/lingrottin)|
 |---|---|
