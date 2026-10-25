@@ -1,4 +1,4 @@
-Just a freshman with no achievements. 🥺
+Just a rottenman with no achievements. 🥺
 
 [Blog](https://enita.cn/) ([Backup](https://cf.enita.cn))
 
